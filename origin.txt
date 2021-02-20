@@ -1,0 +1,336 @@
+Uri: https://tulpanki.ru/
+File Name: c:\Downloaded Web Sites\tulpanki.ru\index.htm
+Content Type: text/html
+
+Uri: https://tulpanki.ru/static/css/main.min.css
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\css\main.min.css
+Content Type: text/css
+
+Uri: https://tulpanki.ru/favicon.ico
+File Name: c:\Downloaded Web Sites\tulpanki.ru\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://tulpanki.ru/politics.html
+File Name: c:\Downloaded Web Sites\tulpanki.ru\politics.html
+Content Type: text/html
+
+Uri: https://tulpanki.ru/static/img/general/logo-mini.png
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\general\logo-mini.png
+Content Type: image/png
+
+Uri: https://tulpanki.ru/static/img/content/b01.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\b01.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/content/b02.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\b02.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/content/b03.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\b03.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/content/b04.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\b04.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/content/b05.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\b05.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/content/b06.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\b06.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/content/b07.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\b07.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/content/b08.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\b08.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/content/b09.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\b09.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/content/b10.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\b10.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/content/b11.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\b11.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/content/b12.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\b12.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/content/b13.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\b13.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/content/b14.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\b14.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/content/b15.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\b15.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/content/b16.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\b16.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/content/b17.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\b17.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/content/b18.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\b18.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/content/b19.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\b19.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/content/b0.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\b0.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/content/pay-m.png
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\pay-m.png
+Content Type: image/png
+
+Uri: https://tulpanki.ru/static/js/main.min.js
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\js\main.min.js
+Content Type: application/x-javascript
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueThin.eot
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueThin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueThin.woff2
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueThin.woff2
+Content Type: application/font-woff2
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueThin.woff
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueThin.woff
+Content Type: application/font-woff
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueThin.ttf
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueThin.bin
+Content Type: application/octet-stream
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueThin.svg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueThin.svg
+Content Type: image/svg+xml
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueLight.eot
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueLight.woff2
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueLight.woff2
+Content Type: application/font-woff2
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueLight.woff
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueLight.woff
+Content Type: application/font-woff
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueLight.ttf
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueLight.bin
+Content Type: application/octet-stream
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueLight.svg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueLight.svg
+Content Type: image/svg+xml
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueBook.eot
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueBook.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueBook.woff2
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueBook.woff2
+Content Type: application/font-woff2
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueBook.woff
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueBook.woff
+Content Type: application/font-woff
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueBook.ttf
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueBook.bin
+Content Type: application/octet-stream
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueBook.svg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueBook.svg
+Content Type: image/svg+xml
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueRegular.eot
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueRegular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueRegular.woff2
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueRegular.woff2
+Content Type: application/font-woff2
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueRegular.woff
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueRegular.woff
+Content Type: application/font-woff
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueRegular.ttf
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueRegular.bin
+Content Type: application/octet-stream
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueRegular.svg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueRegular.svg
+Content Type: image/svg+xml
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueBold.eot
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueBold.woff2
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueBold.woff2
+Content Type: application/font-woff2
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueBold.woff
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueBold.woff
+Content Type: application/font-woff
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueBold.ttf
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueBold.bin
+Content Type: application/octet-stream
+
+Uri: https://tulpanki.ru/static/fonts/BebasNeueBold.svg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\BebasNeueBold.svg
+Content Type: image/svg+xml
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProBold.eot
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProBold.woff2
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProBold.woff2
+Content Type: application/font-woff2
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProBold.woff
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProBold.woff
+Content Type: application/font-woff
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProBold.ttf
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProBold.bin
+Content Type: application/octet-stream
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProBold.svg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProBold.svg
+Content Type: image/svg+xml
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProSemibold.eot
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProSemibold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProSemibold.woff2
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProSemibold.woff2
+Content Type: application/font-woff2
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProSemibold.woff
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProSemibold.woff
+Content Type: application/font-woff
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProSemibold.ttf
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProSemibold.bin
+Content Type: application/octet-stream
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProSemibold.svg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProSemibold.svg
+Content Type: image/svg+xml
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProRegular.eot
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProRegular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProRegular.woff2
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProRegular.woff2
+Content Type: application/font-woff2
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProRegular.woff
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProRegular.woff
+Content Type: application/font-woff
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProRegular.ttf
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProRegular.bin
+Content Type: application/octet-stream
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProRegular.svg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProRegular.svg
+Content Type: image/svg+xml
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProCond.eot
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProCond.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProCond.woff2
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProCond.woff2
+Content Type: application/font-woff2
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProCond.woff
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProCond.woff
+Content Type: application/font-woff
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProCond.ttf
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProCond.bin
+Content Type: application/octet-stream
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProCond.svg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProCond.svg
+Content Type: image/svg+xml
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProBoldCond.eot
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProBoldCond.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProBoldCond.woff2
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProBoldCond.woff2
+Content Type: application/font-woff2
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProBoldCond.woff
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProBoldCond.woff
+Content Type: application/font-woff
+
+Uri: https://tulpanki.ru/static/fonts/MyriadProBoldCond.ttf
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\fonts\MyriadProBoldCond.bin
+Content Type: application/octet-stream
+
+Uri: https://tulpanki.ru/static/img/general/bg-texture.png
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\general\bg-texture.png
+Content Type: image/png
+
+Uri: https://tulpanki.ru/static/img/png-sprite/96dpi/sprite.png
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\png-sprite\96dpi\sprite.png
+Content Type: image/png
+
+Uri: https://tulpanki.ru/static/img/content/tulpan.png
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\content\tulpan.png
+Content Type: image/png
+
+Uri: https://tulpanki.ru/static/img/general/bg01.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\general\bg01.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/general/bg-girl.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\general\bg-girl.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/general/bg-girl2.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\general\bg-girl2.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/general/bg-dostavka.jpg
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\general\bg-dostavka.jpg
+Content Type: image/jpeg
+
+Uri: https://tulpanki.ru/static/img/general/card-label-delivery.png
+File Name: c:\Downloaded Web Sites\tulpanki.ru\static\img\general\card-label-delivery.png
+Content Type: image/png
+
